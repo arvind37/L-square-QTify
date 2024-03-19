@@ -11,13 +11,12 @@
 }
 
 .qtify-logo-img {
-    position: absolute;
     width: 67px;
     height: 34px;
-    top: 0;
-    bottom: 0;
-    left: 32px;
-    margin: auto;
+    /* bottom: 0; */
+    /* left: 32px; */
+    margin-left: 32px;
+    margin-top: 20px;
 }
 
 .search-bar {
