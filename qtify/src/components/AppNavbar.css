@@ -7,10 +7,15 @@
 
 .container {
     display: flex;
+    position: relative;
 }
 
 .qtify-logo-img {
-    margin: 20px 0 0 32px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 32px;
+    margin: auto;
 }
 
 .search-bar {
