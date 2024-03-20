@@ -13,14 +13,13 @@
 
 .qtify-logo-img {
     width: 67px;
-    height: 34px;
     /* bottom: 0; */
     /* left: 32px; */
-    margin-top: 20px;
 }
 
 .logoDiv {
     display: flex;
+    margin: 14px;
     
 }
 
