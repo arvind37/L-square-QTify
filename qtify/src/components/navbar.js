@@ -15,7 +15,7 @@ function AppNavbar() {
         <Navbar.Brand href="#home">
           <img
             src={qtifyLogo}
-            className="d-inline-block align-top qtify-logo-img"
+            className="d-inline-block align-top qtify-logo-img logoDiv"
             alt="Qtify Logo"
           />
         </Navbar.Brand>
